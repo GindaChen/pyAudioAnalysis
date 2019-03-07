@@ -2,3 +2,11 @@
 *.pyc
 *.npy
 .idea
+pyAudioAnalysis.egg-info/dependency_links.txt
+pyAudioAnalysis.egg-info/not-zip-safe
+pyAudioAnalysis.egg-info/PKG-INFO
+pyAudioAnalysis.egg-info/SOURCES.txt
+pyAudioAnalysis.egg-info/top_level.txt
+pyAudioAnalysis/data/speech_music_sample.wav.csv
+pyAudioAnalysis/data/speech_music_sample.wav_st.csv
+wiki/
